@@ -1,0 +1,18 @@
+[
+{
+"title": "This Portfolio",
+"summary": "Static site served from your container of choice. Data‑driven projects grid.",
+"tags": ["Docker", "Static Site"],
+"links": {
+"github": "https://github.com/Mubarek-Amin/Project-Portfolio"
+}
+},
+{
+"title": "Homelab Observability",
+"summary": "Prometheus + Grafana with exporters on a self‑hosted cluster.",
+"tags": ["Kubernetes", "Monitoring"],
+"links": {
+"writeup": "https://yourblog.example.com/homelab-observability"
+}
+}
+]
